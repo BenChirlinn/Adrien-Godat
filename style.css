@@ -1,0 +1,178 @@
+@charset "UTF-8";
+.outline {
+	height: 659px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #982424;
+	
+	display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.sideimage {
+	float: right;
+	height: 659px;
+	width: 309px;
+	border-left: 2px solid #982424;
+}
+
+.header{
+	width:681px;
+	height:80px;
+	float:left;
+}
+
+.logo{
+	width:360px;
+	height:75px;
+	padding-top: 5px;
+	padding-left: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu-section{
+	float:left;
+	width: 681px;
+	height:60px;
+	margin-top: 30px;
+}
+
+.imageleft{
+	float:left;
+	width:150px;
+	height:60px;	
+}
+
+.menu{
+	width:381px;
+	height:60px;
+	float:left;
+}
+
+.imageright{
+	float:left;
+	width:150px;
+	height:60px;	
+}
+
+.AboutContent {
+	float: left;
+	color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 661px;
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 450px;
+}
+
+.VideosContent {
+	float: left;
+	color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 661px;
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 450px;
+}
+
+.SoundsContent {
+	float: left;
+	color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 661px;
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 450px;
+}
+
+.PNContent {
+	float: left;
+	color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 661px;
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 450px;
+}
+
+.ODContent {
+	float: left;
+	color: white;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	width: 661px;
+	margin-top: 15px;
+	margin-left: 15px;
+	height: 450px;
+}
+
+
+.footer {
+	width: 681px;
+	height:20px;
+	color: #FFF;
+	font-size: small;
+	text-align: right;
+	float:left;
+}
+.PNimage {
+	float: left;
+	height: auto;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: small;
+}
+.PNInfo {
+	height: 200px;
+	width: 200px;
+	margin-top: 5px;
+	margin-left: 10px;
+	float: left;
+}
+
+.PNsoundcloud{
+	width:400px;
+	height:auto;
+	float:right;
+	margin-top:10px;
+
+}
+
+.ODimage {
+	float: left;
+	height: auto;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: small;
+}
+.ODInfo {
+	height: 200px;
+	width: 200px;
+	margin-top: 5px;
+	margin-left: 10px;
+	float: left;
+}
+
+.ODsoundcloud{
+	width:400px;
+	height:auto;
+	float:right;
+	margin-top:10px;
+
+}
+
+.colourchange{
+	color:#FFF;
+	cursor:pointer;
+}
+
+.colourchange:hover{
+	color:#982424;
+}
